@@ -1,0 +1,6 @@
+streamlit
+streamlit-drawable-canvas
+tensorflow==2.13.0
+numpy
+pillow
+opencv-python

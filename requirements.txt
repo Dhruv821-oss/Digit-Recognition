@@ -1,7 +1,9 @@
+opencv-python
 streamlit
 streamlit-drawable-canvas
 tensorflow
 numpy
 pillow
 opencv-python
+
 
